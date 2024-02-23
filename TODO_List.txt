@@ -1,0 +1,25 @@
+EXCEL PROJECT NOTES
+
+create sheets : working sheet, pivot table an daxhboard sheet
+
+copy the raw data into the workin sheet space in order to work with
+
+Suppression des doublons : donnees --> outils de donnee --> supprimer doublons 
+
+remove confusion by replacing M by Married and S by Single in the marital status  column and M by Male and F by female in the Gender column   --> CTRL + H on the columns and i replaced the values.
+
+Change the income column type from monatry to number . By using : accueil --> nombres --> nombre. and then remove the decimals
+
+create a new column to cluster Ages into three groups : Adolescent, Middle age and Old
+
+create a pivot table to plot a first chart : Average income by gender with Yes if the customer purchased a bike and No if not.
+
+In the commute distance column, replace ''10+ Miles'' by ''More than 10Miles'' to correct the disorder in the data chart and the create a chart : ''Nombre d'achat par distance des clients''
+
+TO PERSONNALIZE, we can create the numbert of chart we desire as long as it is pertinent, using pivot tables.
+
+create the dashboard, and syncronize all the charts and filters
+
+
+
+DONE !!!
